@@ -102,11 +102,11 @@ content:
   - title: certificate
     layout: list # Type of content section (list/text)
     content:
-      - layout: center
+      - layout: top-middle
         title: 정보처리기사
         caption: 2020.08.16
         sub_title: 한국산업인력공단
-      - layout: center
+      - layout: top-middle
         title: SQLD
         caption: 2019.09.24
         sub_title: 한국데이터산업진흥원
