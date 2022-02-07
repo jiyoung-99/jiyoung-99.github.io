@@ -105,13 +105,11 @@ content:
       - layout: top-middle
         title: 정보처리기사
         caption: 2020.08.16
-        sub_title: 한국산업인력공단
       - layout: top-middle
         title: SQLD
         caption: 2019.09.24
-        sub_title: 한국데이터산업진흥원
 
-  - title: A Little More About Me
+  - title: Technology stack
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in networks and software engineering some of my other interests and hobbies are:
@@ -119,9 +117,13 @@ content:
       - Gaming
       - Knitting
       - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+<p>
+ <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+ <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+ <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+ <img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
+</p>
+     
 
 # Footer
 footer_show_references: true
